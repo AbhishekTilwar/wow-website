@@ -1,6 +1,6 @@
 # GDSC Pune WoW Website
 
-This website is built using React.
+This website is built using React. This Project is created for GDSC WOW event.
 
 ## Forking and Cloning
 
